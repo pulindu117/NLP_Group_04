@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# =======================================
+# NLP Project — Custom Rules
+# =======================================
+
+# Dataset files — too large for GitHub
+data/*.csv
+data/*.zip
+data/*.xlsx
+data/*.tsv
+data/*.json
+
+# Cleaned and processed data files
+data/welFake_cleaned.csv
+
+# Anaconda projects folder
+anaconda_projects/
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
