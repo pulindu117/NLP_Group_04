@@ -220,3 +220,4 @@ data/*.csv
 anaconda_projects/
 models/*.npy
 models/*.npz
+models/*.keras
