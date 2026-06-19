@@ -221,3 +221,5 @@ anaconda_projects/
 models/*.npy
 models/*.npz
 models/*.keras
+models/*.pkl
+models/rf_final_model.pkl
