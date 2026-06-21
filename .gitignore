@@ -240,3 +240,9 @@ anaconda_projects/
 # Windows system files
 Thumbs.db
 Desktop.ini
+
+# Saved model files - regenerable, too large for GitHub
+models/*.npz
+models/*.npy
+models/*.pkl
+models/*.h5
