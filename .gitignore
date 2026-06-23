@@ -246,3 +246,6 @@ models/*.npz
 models/*.npy
 models/*.pkl
 models/*.h5
+
+# Trained Keras models (large, regenerable)
+models/*.keras
