@@ -217,6 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+
 # =======================================
 # NLP Project — Custom Rules
 # =======================================
@@ -249,3 +250,12 @@ models/*.h5
 
 # Trained Keras models (large, regenerable)
 models/*.keras
+
+data/*.csv
+anaconda_projects/
+models/*.npy
+models/*.npz
+models/*.keras
+models/*.pkl
+models/rf_final_model.pkl
+
