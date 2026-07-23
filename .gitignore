@@ -218,6 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 
+
 # =======================================
 # NLP Project — Custom Rules
 # =======================================
@@ -258,4 +259,7 @@ models/*.npz
 models/*.keras
 models/*.pkl
 models/rf_final_model.pkl
+
+
+data/*.csv
 
