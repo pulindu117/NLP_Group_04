@@ -1,0 +1,7 @@
+member_name,model_name,model_type,feature_method,accuracy,precision,recall,f1_score
+W.A. Irusha Madushan,CNN (Word2Vec Embeddings),DL,Word2Vec,0.9679,0.9573,0.9814,0.9692
+Pulindu Pasanjith,Logistic Regression,ML,TF-IDF,0.9579,0.9536,0.9651,0.9593
+W.A. Irusha Madushan,Random Forest (TF-IDF),ML,TF-IDF,0.9553,0.9489,0.965,0.9569
+Matheesha Desaman,BERT Fine-tuning,DL,BERT Embeddings,0.95,0.95,0.95,0.9525
+Pulindu Pasanjith,LSTM,DL,Tokenised Sequences,0.9397,0.9447,0.9375,0.9411
+Matheesha Desaman,Naive Bayes (GaussianNB),ML,BERT Embeddings,0.8075,0.7835,0.8702,0.8246
